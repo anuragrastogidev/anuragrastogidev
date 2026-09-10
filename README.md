@@ -1,3 +1,4 @@
+![logo](https://github.com/anuragrastogidev/anuragrastogidev/blob/main/bannerImage.png)
 # 💫 About Me:
 Software Engineer | Ex-WCO Global<br><br>Experienced in building production-grade web applications, CRM systems, dashboards, and custom business solutions.<br><br>Currently exploring:<br>- Java<br>- Data Structures & Algorithms<br>- Backend Development<br>- System Design<br><br>Always learning, building, and solving real-world problems through software.
 
