@@ -11,6 +11,6 @@ Software Engineer | Ex-WCO Global<br><br>Experienced in building production-grad
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=anuragrastogidev&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=anuragrastogidev&theme=default_repocard&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=anuragrastogidev&theme=default_repocard&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
